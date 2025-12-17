@@ -4,4 +4,12 @@
     <color name="white">#FFFFFFFF</color>
     <color name="blue_500">#2196F3</color>
     <color name="blue_200">#90CAF9</color>
+    <color name="blue_gray_900">#191c1f</color>
+    <color name="blue_gray_400">#8691a4</color>
+    <color name="blue_gray_100">#b0bec5</color>
+
+
+    <color name="gray_100">#d9d9d9</color>
+    <color name="gray_400">#acacac</color>
+    <color name="gray_500">#7d7d7d</color>
 </resources>
